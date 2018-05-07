@@ -1,0 +1,12 @@
+### Binaries and artifacts ###
+**/build/
+*.jar
+*.war
+*.ear
+
+### IntelliJ IDEA files ###
+/out
+**/.idea/
+*.iws
+*.ipr
+*.iml
